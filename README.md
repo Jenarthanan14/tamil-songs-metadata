@@ -25,7 +25,7 @@ The album of tamil track, collect from [tamilpaa.com](https://www.tamilpaa.com/)
 
 Use Stopwords When Indexing Content. Most written text has a lot of functional words, like ```“முதல்”, “என்ன”, “இருந்து” and “சில”``` which are important to the person reading the content as they help it flow cohesively, but aren't necessarily as important to someone searching the content of our site.
 
-## Synonyms: 
+## Synonyms: :mag:
 ```synonyms.txt```
 
 This feature helps to enhance user experience in the data context by recognizing different uses for a term. To achieve this functionality, Solr ships with a filter factory named SynonymFilterFactory. It also includes a file called **synonyms.txt**, for instance to add our synonyms
