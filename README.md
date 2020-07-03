@@ -31,9 +31,9 @@ Use Stopwords When Indexing Content. Most written text has a lot of functional w
 This feature helps to enhance user experience in the data context by recognizing different uses for a term. To achieve this functionality, Solr ships with a filter factory named SynonymFilterFactory. It also includes a file called **synonyms.txt**, for instance to add our synonyms
 
 ```
-*லாரன்ஸ், லோரன்ஸ்
-*ஆண்டனி, அண்டனி
-*ஷரத்தா, ஷ்ரத்தா
-*இம்மான் , இமான் 
-*ஜி.வி.பிரகாஷ், ஜீ.வி.பிரகாஷ்
+* லாரன்ஸ், லோரன்ஸ்
+* ஆண்டனி, அண்டனி
+* ஷரத்தா, ஷ்ரத்தா
+* இம்மான் , இமான் 
+* ஜி.வி.பிரகாஷ், ஜீ.வி.பிரகாஷ்
 ```
